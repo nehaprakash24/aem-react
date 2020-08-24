@@ -1,0 +1,218 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*! ../ComponentMapping */
+
+/*! ../Constants */
+
+/*! ../Container */
+
+/*! ../Utils */
+
+/*! ./../process/browser.js */
+
+/*! ./AllowedComponentsPlaceholder */
+
+/*! ./AllowedComponentsPlaceholderList */
+
+/*! ./ComponentMapping */
+
+/*! ./Constants */
+
+/*! ./Container */
+
+/*! ./ContainerPlaceholder */
+
+/*! ./EditorContext */
+
+/*! ./Utils */
+
+/*! ./allowedcomponents/AllowedComponentsContainer */
+
+/*! ./components/Container */
+
+/*! ./components/EditableComponent */
+
+/*! ./components/ModelProvider */
+
+/*! ./components/Page */
+
+/*! ./components/ResponsiveGrid */
+
+/*! ./components/allowedcomponents/AllowedComponentsContainer */
+
+/*! @adobe/cq-spa-component-mapping */
+
+/*! @adobe/cq-spa-page-model-manager */
+
+/*! @license DOMPurify | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.0.8/LICENSE */
+
+/*! exports provided: AllowedComponentPlaceholder */
+
+/*! exports provided: AllowedComponentPlaceholderList */
+
+/*! exports provided: AllowedComponentsContainer */
+
+/*! exports provided: ComponentMapping, MapTo, ComponentMappingContext, withComponentMappingContext */
+
+/*! exports provided: ComponentMapping, MapTo, ComponentMappingContext, withComponentMappingContext, AllowedComponentsContainer, Container, withEditable, PLACEHOLDER_CLASS_NAME, ModelProvider, withModel, Page, ResponsiveGrid, EditorContext, withEditorContext, Utils */
+
+/*! exports provided: Container */
+
+/*! exports provided: ContainerPlaceholder */
+
+/*! exports provided: EditorContext, withEditorContext */
+
+/*! exports provided: ModelProvider, withModel */
+
+/*! exports provided: NotImplementedError, WCMMode, default */
+
+/*! exports provided: Page */
+
+/*! exports provided: ResponsiveGrid */
+
+/*! exports provided: default */
+
+/*! exports provided: withEditable, PLACEHOLDER_CLASS_NAME */
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */
+
+/*! no static exports found */
+
+/*! path */
+
+/*! prop-types */
+
+/*! react */
+
+/*! react-fast-compare */
+
+/*!**********************!*\
+        !*** ./src/Utils.ts ***!
+        \**********************/
+
+/*!************************!*\
+        !*** external "react" ***!
+        \************************/
+
+/*!**************************!*\
+        !*** ./src/Constants.ts ***!
+        \**************************/
+
+/*!*****************************!*\
+        !*** external "prop-types" ***!
+        \*****************************/
+
+/*!*******************************!*\
+        !*** ./src/EditorContext.tsx ***!
+        \*******************************/
+
+/*!*********************************!*\
+        !*** ./src/components/Page.tsx ***!
+        \*********************************/
+
+/*!**********************************!*\
+        !*** ./src/ComponentMapping.tsx ***!
+        \**********************************/
+
+/*!**************************************!*\
+        !*** ./src/components/Container.tsx ***!
+        \**************************************/
+
+/*!*****************************************!*\
+        !*** ./node_modules/process/browser.js ***!
+        \*****************************************/
+
+/*!******************************************!*\
+        !*** ./src/components/ModelProvider.tsx ***!
+        \******************************************/
+
+/*!*******************************************!*\
+        !*** ./src/components/ResponsiveGrid.tsx ***!
+        \*******************************************/
+
+/*!*********************************************!*\
+        !*** ./src/cq-react-editable-components.ts ***!
+        \*********************************************/
+
+/*!**********************************************!*\
+        !*** ./src/components/EditableComponent.tsx ***!
+        \**********************************************/
+
+/*!***********************************************!*\
+        !*** ./node_modules/path-browserify/index.js ***!
+        \***********************************************/
+
+/*!*************************************************!*\
+        !*** ./src/components/ContainerPlaceholder.tsx ***!
+        \*************************************************/
+
+/*!**************************************************!*\
+        !*** ./node_modules/react-fast-compare/index.js ***!
+        \**************************************************/
+
+/*!**************************************************!*\
+        !*** external "@adobe/cq-spa-component-mapping" ***!
+        \**************************************************/
+
+/*!***************************************************!*\
+        !*** external "@adobe/cq-spa-page-model-manager" ***!
+        \***************************************************/
+
+/*!*************************************************************************!*\
+        !*** ./src/components/allowedcomponents/AllowedComponentsContainer.tsx ***!
+        \*************************************************************************/
+
+/*!***************************************************************************!*\
+        !*** ./src/components/allowedcomponents/AllowedComponentsPlaceholder.tsx ***!
+        \***************************************************************************/
+
+/*!*******************************************************************************!*\
+        !*** ./src/components/allowedcomponents/AllowedComponentsPlaceholderList.tsx ***!
+        \*******************************************************************************/
+
+/** @license React v0.19.1
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.13.1
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.13.1
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.13.1
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
