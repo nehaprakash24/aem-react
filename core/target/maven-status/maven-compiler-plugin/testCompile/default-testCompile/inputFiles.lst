@@ -1,0 +1,5 @@
+/Users/nehaprakash/code/aem-guides-wknd-spa/core/src/test/java/com/adobe/aem/guides/wknd/spa/react/core/filters/LoggingFilterTest.java
+/Users/nehaprakash/code/aem-guides-wknd-spa/core/src/test/java/com/adobe/aem/guides/wknd/spa/react/core/servlets/SimpleServletTest.java
+/Users/nehaprakash/code/aem-guides-wknd-spa/core/src/test/java/com/adobe/aem/guides/wknd/spa/react/core/listeners/SimpleResourceListenerTest.java
+/Users/nehaprakash/code/aem-guides-wknd-spa/core/src/test/java/com/adobe/aem/guides/wknd/spa/react/core/models/HelloWorldModelTest.java
+/Users/nehaprakash/code/aem-guides-wknd-spa/core/src/test/java/com/adobe/aem/guides/wknd/spa/react/core/schedulers/SimpleScheduledTaskTest.java
